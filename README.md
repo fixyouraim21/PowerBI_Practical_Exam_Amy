@@ -22,5 +22,9 @@ Handling inconsistencies in the Date and Fiscal Year columns was a major challen
 ![Screenshot 34](screenshots/Screenshot%20%2834%29.png)
 ![Screenshot 35](screenshots/Screenshot%20%2835%29.png)
 
+## Data Model
+![Data Model](screenshots/data%20model.png)
+
+
 
 
