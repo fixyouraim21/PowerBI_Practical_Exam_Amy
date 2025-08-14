@@ -13,3 +13,14 @@ Handling inconsistencies in the Date and Fiscal Year columns was a major challen
 - RLS filters are static based on pre-defined roles; dynamic user-specific filtering was not implemented.  
 - Very small categories in charts may still appear visually minor despite enabling all slices due to limited chart space.
 
+## Power Query Images
+![Screenshot 29](screenshots/Screenshot%20%2829%29.png)
+![Screenshot 30](screenshots/Screenshot%20%2830%29.png)
+![Screenshot 31](screenshots/Screenshot%20%2831%29.png)
+![Screenshot 32](screenshots/Screenshot%20%2832%29.png)
+![Screenshot 33](screenshots/Screenshot%20%2833%29.png)
+![Screenshot 34](screenshots/Screenshot%20%2834%29.png)
+![Screenshot 35](screenshots/Screenshot%20%2835%29.png)
+
+
+
