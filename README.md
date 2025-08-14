@@ -1,5 +1,4 @@
 # PowerBI_Practical_Exam_Amy
-# Power BI Exam Project
 
 ## Project Approach
 This project was structured around building a **star schema** with Sales as the fact table and Customers, Products, Dates, and Geography as dimension tables. Data cleaning and transformation were performed in **Power Query**, including the creation of calculated columns for Profit and Sales Category, and proper Date hierarchies for time intelligence. Key **DAX measures** such as Total Sales, Year-over-Year Growth, Running Total Sales, and Top N product filters were developed and applied across multiple report pages. The report includes interactive visualizations: a Sales Overview page for trends, a Product Overview page for product performance, and a Customer Insights page for key customer evaluation. **Bookmarks, slicers, and filters** were used to enhance interactivity, and **Row-Level Security (RLS)** was implemented to restrict data access based on user roles.
@@ -25,6 +24,16 @@ Handling inconsistencies in the Date and Fiscal Year columns was a major challen
 ## Data Model
 ![Data Model](screenshots/data%20model.png)
 
+## Visualisation Images
+![Screenshot 36](screenshots/Screenshot%20(36).png)
+![Screenshot 37](screenshots/Screenshot%20(37).png)
+![Screenshot 38](screenshots/Screenshot%20(38).png)
+![Screenshot 39](screenshots/Screenshot%20(39).png)
+![Screenshot 40](screenshots/Screenshot%20(40).png)
+![Screenshot 41](screenshots/Screenshot%20(41).png)
+![Screenshot 42](screenshots/Screenshot%20(42).png)
+![Screenshot 43](screenshots/Screenshot%20(43).png)
+![Screenshot 44](screenshots/Screenshot%20(44).png)
 
 
 
