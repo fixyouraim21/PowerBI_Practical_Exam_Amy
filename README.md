@@ -35,5 +35,9 @@ Handling inconsistencies in the Date and Fiscal Year columns was a major challen
 ![Screenshot 43](screenshots/Screenshot%20(43).png)
 ![Screenshot 44](screenshots/Screenshot%20(44).png)
 
+## Report Images
+![Screenshot 45](screenshots/Screenshot%20(45).png)
+![Screenshot 46](screenshots/Screenshot%20(46).png)
+![Screenshot 47](screenshots/Screenshot%20(47).png)
 
 
