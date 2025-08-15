@@ -83,6 +83,18 @@ Ranks products by sales and dynamically filters to include only the top 5, makin
    - Top regions: **North America** and **Europe**.  
    - Pacific region contributes but remains far behind.
 
+###  **Product Analysis**
+This section provides an overview of the company's product performance, highlighting top-selling items and sales trends by category and region.
+
+**Top Products:**  
+The Mountain-200 Black, 38 model is the clear leader in sales, with a significant margin over other products. This indicates strong market demand for this specific item.
+
+**Sales by Category:**  
+While sales data from 2018 to 2020 is available for all product categories, the "Bikes" category consistently dominates, suggesting it is the primary revenue driver for the company.
+
+**Geographic Performance:**  
+The United States is the most significant market, contributing the highest sales across all product categories. This geographic concentration highlights the importance of this region to overall business performance.
+
 ### **Customer Insights Page**
 1. **Outliers in Sales Data**  
    - **1,204 sales records above the 99th percentile**, indicating a small number of transactions contributing disproportionately to revenue.
