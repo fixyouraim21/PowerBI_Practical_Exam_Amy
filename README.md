@@ -59,6 +59,51 @@ Ranks products by sales and dynamically filters to include only the top 5, makin
 - Forecast visuals assume a **linear trend** unless otherwise specified.
 
 --- 
+##  Dashboard Insights
+
+### **Sales Overview Page**
+1. **Sales Trends**  
+   - Sales have generally grown over time (Jan 2018 – early 2020), despite occasional fluctuations.  
+   - Trend line shows a steady upward trajectory with noticeable peaks around **July 2019** and **January 2020**.
+
+2. **Year-over-Year (YoY) Growth**  
+   - Current YoY growth shows a sharp drop, possibly due to missing prior year data for the latest period or a significant downturn.
+
+3. **Category Performance**  
+   - **Bikes** dominate sales (~86% of total).  
+   - **Components** follow (~10%).  
+   - Clothing and Accessories make up a minimal share.
+
+4. **Sales vs. Target**  
+   - Total Sales: **~373K**  
+   - Target: **~410K**  
+   - Gap: ~9% below target.
+
+5. **Regional Sales Distribution**  
+   - Top regions: **North America** and **Europe**.  
+   - Pacific region contributes but remains far behind.
+
+### **Customer Insights Page**
+1. **Outliers in Sales Data**  
+   - **1,204 sales records above the 99th percentile**, indicating a small number of transactions contributing disproportionately to revenue.
+
+2. **Overall Metrics**  
+   - **Total Sales:** ~109.8M  
+   - **Total Profit:** ~12.55M  
+   - **Order Quantity:** ~274,776 units  
+   - **Average Profit Margin:** ~11% (well below the 30% target).
+
+3. **Customer Profitability**  
+   - Wide variation in profit margins.  
+   - Some customers generate high sales but extremely low margins (as low as 0.01).  
+   - High-margin customers are fewer but more profitable.
+
+4. **Profit Margin Gap**  
+   - Actual Margin: **11%**  
+   - Target Margin: **30%**  
+   - Highlights need for cost control or price optimization.
+
+---
 
 ## Power Query Images
 ![Screenshot 29](screenshots/Screenshot%20%2829%29.png)
