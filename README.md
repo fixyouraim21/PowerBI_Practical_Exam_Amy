@@ -59,61 +59,29 @@ Ranks products by sales and dynamically filters to include only the top 5, makin
 - Forecast visuals assume a **linear trend** unless otherwise specified.
 
 --- 
-##  Dashboard Insights
+### **Dashboard Insights**
 
-### **Sales Overview Page**
-1. **Sales Trends**  
-   - Sales have generally grown over time (Jan 2018 – early 2020), despite occasional fluctuations.  
-   - Trend line shows a steady upward trajectory with noticeable peaks around **July 2019** and **January 2020**.
+- Sales have generally grown over time from January 2018 to early 2020, with a steady upward trajectory despite occasional fluctuations.  
+- There are noticeable sales peaks around July 2019 and January 2020, indicating seasonal or promotional influences.  
+- The current year-over-year growth shows a sharp drop, which may be due to missing prior year data for the latest period or an actual downturn in performance.  
+- Bikes dominate category performance, accounting for approximately 86% of total revenue, followed by Components at around 10%, while Clothing and Accessories contribute only minimally.  
+- Total sales amount to approximately 373K compared to a target of around 410K, leaving a gap of about 9% below target.  
+- North America and Europe lead in regional sales, with the Pacific region contributing a smaller share.  
 
-2. **Year-over-Year (YoY) Growth**  
-   - Current YoY growth shows a sharp drop, possibly due to missing prior year data for the latest period or a significant downturn.
+### **Customer Insights**
 
-3. **Category Performance**  
-   - **Bikes** dominate sales (~86% of total).  
-   - **Components** follow (~10%).  
-   - Clothing and Accessories make up a minimal share.
+- There are 1,204 sales records above the 99th percentile, indicating that a small number of transactions contribute disproportionately to revenue.  
+- Overall performance shows total sales of about 109.8M, total profit of approximately 12.55M, and an order quantity of around 274,776 units.  
+- The average profit margin is 11%, which is significantly below the target of 30%.  
+- Customer profitability analysis shows wide variation, with some customers generating high sales but very low margins, while others deliver high margins with fewer sales.  
+- There is a 19% gap between the actual margin and the target margin, highlighting the need for cost control or pricing adjustments.  
 
-4. **Sales vs. Target**  
-   - Total Sales: **~373K**  
-   - Target: **~410K**  
-   - Gap: ~9% below target.
+### **Product Analysis**
 
-5. **Regional Sales Distribution**  
-   - Top regions: **North America** and **Europe**.  
-   - Pacific region contributes but remains far behind.
+- The Mountain-200 Black, 38 model is the top-selling product, outperforming all others by a significant margin, which reflects strong market demand.  
+- Across the 2018 to 2020 period, the "Bikes" category consistently dominates sales, making it the primary revenue driver for the company.  
+- The United States is the leading market, contributing the highest sales across all product categories and underscoring its importance to the business.
 
-###  **Product Analysis**
-This section provides an overview of the company's product performance, highlighting top-selling items and sales trends by category and region.
-
-**Top Products:**  
-The Mountain-200 Black, 38 model is the clear leader in sales, with a significant margin over other products. This indicates strong market demand for this specific item.
-
-**Sales by Category:**  
-While sales data from 2018 to 2020 is available for all product categories, the "Bikes" category consistently dominates, suggesting it is the primary revenue driver for the company.
-
-**Geographic Performance:**  
-The United States is the most significant market, contributing the highest sales across all product categories. This geographic concentration highlights the importance of this region to overall business performance.
-
-### **Customer Insights Page**
-1. **Outliers in Sales Data**  
-   - **1,204 sales records above the 99th percentile**, indicating a small number of transactions contributing disproportionately to revenue.
-
-2. **Overall Metrics**  
-   - **Total Sales:** ~109.8M  
-   - **Total Profit:** ~12.55M  
-   - **Order Quantity:** ~274,776 units  
-   - **Average Profit Margin:** ~11% (well below the 30% target).
-
-3. **Customer Profitability**  
-   - Wide variation in profit margins.  
-   - Some customers generate high sales but extremely low margins (as low as 0.01).  
-   - High-margin customers are fewer but more profitable.
-
-4. **Profit Margin Gap**  
-   - Actual Margin: **11%**  
-   - Target Margin: **30%**  
-   - Highlights need for cost control or price optimization.
 
 ---
 
