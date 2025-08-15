@@ -126,5 +126,6 @@ Ranks products by sales and dynamically filters to include only the top 5, makin
 
  ## Links to published Power Bi Service Report
  
-  
+  [View my Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=36d9a7f1-a3e6-4353-ac49-c978f45f1ce7&autoAuth=true&ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7)
+
   
