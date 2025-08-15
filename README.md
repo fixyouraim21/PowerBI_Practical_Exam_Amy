@@ -117,6 +117,12 @@ Ranks products by sales and dynamically filters to include only the top 5, makin
 ![Screenshot 48](screenshots/Screenshot%20(48).png)  
 ![Screenshot 49](screenshots/Screenshot%20(49).png)  
 
+## Dashboard Images
+![Screenshot 54](screenshots/Screenshot%20(54).png)
+![Screenshot 55](screenshots/Screenshot%20(55).png)
+![Screenshot 56](screenshots/Screenshot%20(56).png)
+![Screenshot 57](screenshots/Screenshot%20(57).png)
+
  
   
   
