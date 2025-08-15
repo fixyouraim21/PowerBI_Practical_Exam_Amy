@@ -123,6 +123,8 @@ Ranks products by sales and dynamically filters to include only the top 5, makin
 ![Screenshot 56](screenshots/Screenshot%20(56).png)
 ![Screenshot 57](screenshots/Screenshot%20(57).png)
 
+
+ ## Links to published Power Bi Service Report
  
   
   
